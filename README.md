@@ -24,13 +24,12 @@ The platform emphasizes user safety, real-time service discovery, offline verifi
 🏗️ Project Architecture
 Frontend: HTML, CSS, JavaScript, React.js (or basic responsive web framework).
 
-Backend: Node.js / Django / Flask (depending on final tech stack).
+Backend: Node.js 
 
-Database: MongoDB / MySQL / PostgreSQL (for storing user and service data).
+Database: MongoDB 
+Hosting: Render
 
-Hosting: AWS / DigitalOcean / Render / Any VPS.
-
-Location Services: Google Maps API / OpenStreetMap API.
+Location Services: Google Maps API.
 
 Authentication: Basic OTP verification or Email Verification.
 
